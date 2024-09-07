@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Mecanicorp/static/css/main.d221dc40.css",
+    "main.js": "/Mecanicorp/static/js/main.34d0bcbe.js",
+    "index.html": "/Mecanicorp/index.html",
+    "main.d221dc40.css.map": "/Mecanicorp/static/css/main.d221dc40.css.map",
+    "main.34d0bcbe.js.map": "/Mecanicorp/static/js/main.34d0bcbe.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d221dc40.css",
+    "static/js/main.34d0bcbe.js"
+  ]
+}
