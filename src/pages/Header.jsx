@@ -1,4 +1,5 @@
 import { Link } from "react-router-dom";
+import "./navbar.css"
 
 const Header = () => {
     return(
@@ -27,17 +28,14 @@ const Header = () => {
                             <Link className="nav-link active" aria-current="page" to="/biblioteca">Biblioteca</Link>
                             </li>
                             <li className="nav-item">
-                            <Link className="nav-link" to="/contactos">Contactanos</Link>
+                            <Link className="nav-link" to="/contactos">Servicios Mecanicos</Link>
                             </li>
                             <li className="nav-item dropdown">
-                            <Link className="nav-link dropdown-toggle" to="/contactos" id="agencias"  role="button" data-bs-toggle="dropdown" aria-expanded="false">
-                                Servicios Mecanicos
-                            </Link>
-                            <ul className="dropdown-menu" aria-labelledby="agencias">
-                                <li><a className="dropdown-item" href="#">Action</a></li>
-                                <li><a className="dropdown-item" href="#">Another action</a></li>
-                                <li><hr className="dropdown-divider"/></li>
-                                <li><a className="dropdown-item" href="#">Something else here</a></li>
+                            <a className="nav-link dropdown-toggle"  id="agencias"  role="button" data-bs-toggle="dropdown" aria-expanded="false">Contactanos</a>
+                            <ul className="dropdown-menu" aria-labelledby="agencias" id="navbar">
+                                <li><a className="dropdown-item" href="#">whatsapp:<br></br><a className="text-center" href="https://wa.me/523333529504?text=Deseo%20hablar%20con%20un%20asesor" target="_blank">33-33-52-35-04</a></a></li>
+                                <li><a className="dropdown-item" href="#">fecebook:<br></br><a className="text-center" href="https://www.facebook.com/profile.php?id=61567286016691" target="_blank">Mecanicorps</a></a></li>
+                                <li><a className="dropdown-item" href="#">telefonos:<br></br>01-800-mecanicorp</a></li>
                             </ul>
                             </li>
                             <li className="nav-item">

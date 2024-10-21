@@ -1,0 +1,25 @@
+.dropdown-menu{
+    background-color: white;
+    height: auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    position: absolute;
+    display: none;
+    list-style: none;
+
+}
+.dropdown-menu :hover{
+    background-color: red;
+}
+
+.dropdown-item a{
+    margin: 15px;
+    color: black;
+    position: relative;
+    text-decoration: none;
+}
+ li:hover .dropdown-menu {
+    display: block;
+
+}

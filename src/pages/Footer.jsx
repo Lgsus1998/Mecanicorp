@@ -16,13 +16,12 @@ const Footer = () => {
                         </Link>
                         <ul className='col-12 col-md-3 list-unstyled'>
                             <li className='text-center font-weight-bold mb-2'>MECANICORP.®</li>
-                            <li>.</li>
-                            <li>.</li>
+                            <hr></hr>
                             <li className='text-center'>"MECANICOS AL ALCANCE DE TU MANO"</li>
                         </ul>
                         <ul className='col-12 col-md-3 list-unstyled'>
                             <li className='font-weight-bold mb-2'>PROVEEDORES!</li>
-                            <li>.</li>
+                            <hr></hr>
                             <li>
                                 <a className="text-center" href="https://www.toyota.mx/" target="_blank">TOYOTA</a>
                             </li>
@@ -35,8 +34,7 @@ const Footer = () => {
                         </ul>
                         <ul className='col-12 col-md-3 list-unstyled'>
                             <li className='text-center font-weight-bold mb-2'>SIGUENOS!</li>
-                            <li>.</li>
-                            <li>.</li>
+                        <hr></hr>
                             <li className="d-flex justify-content-between">
 
                             
