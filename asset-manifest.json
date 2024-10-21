@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/Mecanicorp/static/css/main.d221dc40.css",
-    "main.js": "/Mecanicorp/static/js/main.34d0bcbe.js",
+    "main.css": "/Mecanicorp/static/css/main.d36ee153.css",
+    "main.js": "/Mecanicorp/static/js/main.21c60d06.js",
     "index.html": "/Mecanicorp/index.html",
-    "main.d221dc40.css.map": "/Mecanicorp/static/css/main.d221dc40.css.map",
-    "main.34d0bcbe.js.map": "/Mecanicorp/static/js/main.34d0bcbe.js.map"
+    "main.d36ee153.css.map": "/Mecanicorp/static/css/main.d36ee153.css.map",
+    "main.21c60d06.js.map": "/Mecanicorp/static/js/main.21c60d06.js.map"
   },
   "entrypoints": [
-    "static/css/main.d221dc40.css",
-    "static/js/main.34d0bcbe.js"
+    "static/css/main.d36ee153.css",
+    "static/js/main.21c60d06.js"
   ]
 }
