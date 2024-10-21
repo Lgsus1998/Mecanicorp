@@ -1,6 +1,8 @@
+import "./biblioteca.css"
+
 const Biblioteca = () => {
     return(
-        <div >
+        <div className="styleb" >
             <h1 className="text-left fw-bold">Biblioteca</h1>
 <h2 className="text-left">Que hacer y como prevenir problemas simples...</h2>
 <h4 className="text-danger">Antes recuerda que...</h4>
