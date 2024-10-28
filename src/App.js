@@ -6,6 +6,7 @@ import Footer from "./pages/Footer";
 import Header from "./pages/Header";
 import Inicio from "./pages/Inicio";
 import Error404 from "./pages/Error404";
+import Conocemas from "./pages/conocemas";
 
 function App() {
   return (
@@ -17,6 +18,7 @@ function App() {
         <Route path="/biblioteca" element={<Biblioteca/>}/>
         <Route path="/contactos" element={<Contactos/>}/>
         <Route path="/" element={<Error404/>}/>
+        <Route path="/conocemas" element={<Conocemas/>}/>
  
 
     
