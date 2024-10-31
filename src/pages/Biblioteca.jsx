@@ -9,6 +9,7 @@ const Biblioteca = () => {
 <h4>La mejor forma de prevenir esto es acudir a los talleres de confianza para que le den mantenimiento. Asimismo, es importante contar con un sistema de protección contra sobretensiones y tener una correcta instalación del cableado interno del mismo.</h4>
 
 <hr></hr>
+<div className="biblioteca">
             <h2 className="text-center text-primary">1. Problemas con gasolina</h2>
            
             <p className="text-center">El uso del combustible a veces representa un problema serio, ya que si no se planifica o no se lleva un control puede ocurrir que la flotilla gaste más y no haya eficiencia en el consumo de gasolina.
@@ -84,6 +85,7 @@ Mantener los niveles de aceite y usar uno de buena calidad puede marcar una dife
 
 </p><h2 className="text-center text-primary">11. Fallas en el sistema eléctrico</h2><p className="text-center">
 Una falla en el sistema eléctrico ocurre cuando existen problemas en los cables que alimentan los diferentes componentes de un automóvil, como la luz, la radio, el motor de arranque, entre otros, por lo que tener problemas en esta parte es sinónimo del funcionamiento ineficiente del mismo. </p>
+</div>
         </div>
     )
 }

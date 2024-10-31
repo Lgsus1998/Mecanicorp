@@ -11,3 +11,40 @@ color: aqua;
     color: aqua;
 }
 
+.conocemas1, .conocemas2, .conocemas3{
+    margin: 50px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    background-color: gray;
+    text-align: center;
+    border-radius: 10px;
+}
+.conocemas h1{
+    color:black;
+}
+.conocemas img{
+    margin: 10px;
+    border-radius: 10px;
+    border: red 2px solid;
+}
+.inicio {
+    text-align: center;
+}
+.preguntas{
+    text-align: center;
+    background-color: beige;
+    color: black;
+}
+.preguntas h2{
+    color: red;
+}
+.inicio img{
+    margin: 10px;
+    border-radius: 10px;
+    border: red 2px solid;
+}
+.biblioteca {
+    border: white 1px solid;
+    border-radius: 10px;
+    margin: 20px;
+}

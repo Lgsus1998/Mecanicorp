@@ -43,6 +43,8 @@ const Footer = () => {
                             <i className="bi bi-youtube"></i>
                             <i className="bi bi-x"></i>
                             </li>
+                            <br></br>
+                            <Link className="nav-link" to="/preguntas">· Preguntas frecuentes</Link>
                         </ul>
     
                     </nav>
