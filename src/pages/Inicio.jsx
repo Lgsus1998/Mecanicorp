@@ -6,7 +6,7 @@ const Inicio = () => {
            
             <h1 className="text-danger">COMO USAR EL SITIO WEB!</h1>
             <hr></hr>
-            <h3>En el menu principal selecciona la pestaña conocer mas (como se muestra en la imagen).</h3>
+            <h3>En el menu principal selecciona la pestaña conocer mas. (como se muestra en la imagen).</h3>
             <img className="conoce" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg8A4bSdALORBgspAi8RXwMDCeCp0xjNn5PtQJYI6dclZSwjExsySisJbDiJuyNahXdiVELbMFR_VP2lh46QAhyHM3heF3RATK0VntPp9Ds5LaBcHgvzh9NZXEPdsf-jpScE19Pb_RG8VfA3bVQrUPsrV9M6sbSTcpN8Ua6jrvL5Uyz6o4n7dZyOHgLa7fB/s320/Captura%20de%20pantalla%202024-10-28%20123036.png"></img>
             <hr></hr>
             <h1 className="text-danger">Como nacio esta idea...</h1>
